@@ -15,7 +15,7 @@
 👤 **Author1**
 
 - GitHub: [@MrBrN197](https://github.com/MrBrN197)
-- Twitter: [@brian_orora](https://twitter.com/brian_orora)
+- Twitter: [@MrBrN197](https://twitter.com/MrBrN197)
 
 
 
